@@ -1,4 +1,5 @@
 #Botnet Detection Using Machine Learning Algorithms
+
 In this project, we utilize machine learning techniques to detect Botnet attacks. Leveraging the Bot-IoT and University of New South Wales (UNSW) datasets, we develop four machine learning models based on the Naive Bayes, K-Nearest Neighbor, Support Vector Machine, and Decision Trees classifiers. Among these, the Decision Trees model demonstrated the highest performance, achieving 100% testing accuracy, 100% precision, 100% recall, and 100% F-score when identifying botnet attacks using 82,000 records from the UNSW-NB15 dataset. We conducted our experiments on 10,000 data records, achieving an overall result of 99.63%.
 
 #Introduction
